@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 800px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+#spaceInvaders {
+	margin: 0 auto;
+}
